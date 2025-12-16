@@ -564,7 +564,7 @@ socks-proxy 10.211.55.2 7890
 MIIEDTCCAvWgAwIBAgIIYXd3IzPHH8IwDQYJKoZIhvcNAQELBQAwXTETMBEGA1UE
 [snip]
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>CRTP-Lab 笔记</title><link>https://25pm-sumio.github.io/posts/2025/06/12/01/</link><guid isPermaLink="true">https://25pm-sumio.github.io/posts/2025/06/12/01/</guid><description>test111</description><pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;CRTP-Lab&lt;/h1&gt;
+</content:encoded></item><item><title>CRTP-Lab 笔记</title><link>https://25pm-sumio.github.io/posts/2025/06/12/01/</link><guid isPermaLink="true">https://25pm-sumio.github.io/posts/2025/06/12/01/</guid><description>CRTP考试笔记，自用</description><pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;CRTP-Lab&lt;/h1&gt;
 &lt;h4&gt;Bypass Powershell Security&lt;/h4&gt;
 &lt;pre&gt;&lt;code&gt;# 无管理员权限
 C:\AD\Tools\InviShell\RunWithRegistryNonAdmin.bat
